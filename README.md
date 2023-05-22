@@ -1,2 +1,2 @@
-# DMK4GNN
+# DMK
 The code will be released after the paper is accepted.
